@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prasanth D
+- 👀 I’m interested in Crack the problems through simple Logic
+- 🌱 I’m currently learning Full Stack Developer
+- 💞️ I’m looking to collaborate on Software Engineer
+- 📫 prasanth.d1005@gmail.com
